@@ -1,0 +1,17 @@
+.main {
+    height: 100vh;
+    background-color: lightskyblue;
+}
+
+.text {
+    width: 300px;
+    background-color: darkgrey;
+    border: 1px solid black;
+}
+
+.foto {
+    width: 200px;
+    background-color: darkgrey;
+    border: 1px solid black;
+    height: 300px;
+}
