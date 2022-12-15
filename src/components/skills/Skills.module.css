@@ -1,7 +1,17 @@
-.sectionSkill{
+.sectionSkill {
     height: 100vh;
     background-color: papayawhip;
 }
-.skillsContainer{
-align-items: flex-start;
+
+.skillsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+.skills{
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
