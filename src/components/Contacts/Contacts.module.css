@@ -1,0 +1,21 @@
+.sectionContacts {
+    height: 100vh;
+    background-color: mediumseagreen;
+}
+
+.portfolioContainer {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.formContainer {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.fieldText{
+    width: 280px;
+}

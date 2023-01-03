@@ -1,0 +1,12 @@
+.sectionFooter{
+    height: 100vh;
+    background-color: lightskyblue;
+}
+
+.footerContainer{
+    flex-direction: column;
+}
+.messengersContainer{
+    display: flex;
+    gap: 10px;
+}

@@ -1,16 +1,16 @@
-.sectionSkill {
+.sectionWorks {
     height: 100vh;
-    background-color: papayawhip;
+    background-color: palegoldenrod;
 }
 
-.skillsContainer {
+.containerWorks {
     flex-direction: column;
     justify-content: flex-start;
-
 }
-.skills{
+
+.works{
+    border: 1px solid black;
     width: 100%;
-    border: 1px solid;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
